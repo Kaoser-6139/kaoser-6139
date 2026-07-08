@@ -210,26 +210,27 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
 
 ## Connect with Me
 
-<p>
-  Let's connect! Feel free to reach out through any of the platforms below.
+<p align="center">
+  <em>Feel free to connect with me for internships, junior .NET developer opportunities, or backend-focused collaboration.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoser-mim/">
-    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/linkedin-card.svg" width="31%" alt="LinkedIn - Kaoser Mim" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kaoser%20Mim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:kaoser6139@gmail.com">
-    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/email-card.svg" width="31%" alt="Email - kaoser6139@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-kaoser6139%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Kaoser-6139">
-    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/github-card.svg" width="31%" alt="GitHub - Kaoser-6139" />
+    <img src="https://img.shields.io/badge/GitHub-Kaoser--6139-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<br>
-<br>
+<p align="center">
+  <sub>LinkedIn for professional profile • Email for direct contact • GitHub for projects and code</sub>
+</p>
 
 <p align="right">
   <a href="#quick-navigation">
