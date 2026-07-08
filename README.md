@@ -218,7 +218,7 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoser-mim/">
-    <img src="./assets/linkedin-card.svg" width="31%" alt="LinkedIn - Kaoser Mim" />
+    <img src="./assets/linkedin-card.svg" width="31%" alt="LinkedIn - Imrul Kaoser" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kaoser6139@gmail.com">
