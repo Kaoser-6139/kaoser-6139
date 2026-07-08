@@ -8,25 +8,26 @@ Currently, I am improving my skills through real-world projects, clean architect
 
 ---
 
-<a id="quick-navigation"></a>
-
 ## Quick Navigation
-
 <p align="center">
   <a href="#about-me">
-    <img src="https://img.shields.io/badge/About%20Me-%E2%86%92-0D6EFD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/👤_About_Me-2E86DE?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="#skills--technologies">
-    <img src="https://img.shields.io/badge/Skills-%E2%86%92-198754?style=for-the-badge" />
+  &nbsp;
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/🛠️_Skills-27AE60?style=for-the-badge&logoColor=white" />
   </a>
+  &nbsp;
   <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/Projects-%E2%86%92-6F42C1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📁_Projects-8E44AD?style=for-the-badge&logoColor=white" />
   </a>
+  &nbsp;
   <a href="#github-analytics">
-    <img src="https://img.shields.io/badge/GitHub%20Analytics-%E2%86%92-FD7E14?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📊_GitHub_Analytics-E67E22?style=for-the-badge&logoColor=white" />
   </a>
+  &nbsp;
   <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Contact-%E2%86%92-DC3545?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -133,7 +134,7 @@ Currently, I am improving my skills through real-world projects, clean architect
   </a>
 </p>
 
----
+
 
 
 ---
