@@ -54,98 +54,71 @@ Currently, I am improving my skills through real-world projects, clean architect
 
 <table>
   <tr>
-    <td width="55" align="center">⭐</td>
+    <td width="230"><strong>Primary Skills</strong></td>
     <td>
-      <h3>Primary Skills</h3>
-      <p>
-        <code>C#</code>
-        <code>ASP.NET Core MVC</code>
-        <code>Entity Framework Core</code>
-        <code>SQL Server</code>
-      </p>
+      <code>C#</code>
+      <code>ASP.NET Core MVC</code>
+      <code>Entity Framework Core</code>
+      <code>SQL Server</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">🧱</td>
+    <td><strong>Backend & Architecture</strong></td>
     <td>
-      <h3>Backend & Architecture</h3>
-      <p>
-        <code>Clean Architecture</code>
-        <code>Repository Pattern</code>
-        <code>Unit of Work</code>
-        <code>SOLID</code>
-        <code>OOP</code>
-        <code>CQRS / MediatR</code>
-      </p>
+      <code>Clean Architecture</code>
+      <code>Repository Pattern</code>
+      <code>Unit of Work</code>
+      <code>SOLID</code>
+      <code>OOP</code>
+      <code>CQRS / MediatR</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">🗄️</td>
+    <td><strong>Database</strong></td>
     <td>
-      <h3>Database</h3>
-      <p>
-        <code>SQL Server</code>
-        <code>Stored Procedures</code>
-        <code>Views</code>
-        <code>LINQ</code>
-      </p>
+      <code>SQL Server</code>
+      <code>Stored Procedures</code>
+      <code>Views</code>
+      <code>LINQ</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">🔐</td>
+    <td><strong>Security & Authentication</strong></td>
     <td>
-      <h3>Security & Authentication</h3>
-      <p>
-        <code>Authentication</code>
-        <code>Authorization</code>
-        <code>RBAC</code>
-        <code>Claims Based Authorization</code>
-        <code>Policy Based Authorization</code>
-      </p>
+      <code>Authentication</code>
+      <code>Authorization</code>
+      <code>RBAC</code>
+      <code>Claims Based Authorization</code>
+      <code>Policy Based Authorization</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">🖥️</td>
+    <td><strong>Frontend Basics</strong></td>
     <td>
-      <h3>Frontend Basics</h3>
-      <p>
-        <code>HTML</code>
-        <code>CSS</code>
-        <code>Bootstrap</code>
-        <code>JavaScript</code>
-      </p>
+      <code>HTML</code>
+      <code>CSS</code>
+      <code>Bootstrap</code>
+      <code>JavaScript</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">🛠️</td>
+    <td><strong>Tools & Version Control</strong></td>
     <td>
-      <h3>Tools & DevOps</h3>
-      <p>
-        <code>Git</code>
-        <code>GitHub</code>
-        <code>Docker</code>
-        <code>Visual Studio</code>
-        <code>VS Code</code>
-      </p>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>Docker</code>
+      <code>Visual Studio</code>
+      <code>VS Code</code>
     </td>
   </tr>
-
   <tr>
-    <td align="center">📘</td>
+    <td><strong>Familiar With</strong></td>
     <td>
-      <h3>Familiar With</h3>
-      <p>
-        <code>AWS EC2</code>
-        <code>AWS S3</code>
-        <code>AWS IAM</code>
-        <code>Unit Testing</code>
-        <code>Manual Testing</code>
-      </p>
+      <code>AWS EC2</code>
+      <code>AWS S3</code>
+      <code>AWS IAM</code>
+      <code>Unit Testing</code>
+      <code>Manual Testing</code>
     </td>
   </tr>
 </table>
