@@ -140,49 +140,61 @@ Currently, I am improving my skills through real-world projects, clean architect
 
 ## Featured Projects
 
-### 1. Gym Management System with Smart Fitness Coach
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-A web-based gym management system built with **ASP.NET Core MVC**, **.NET 9**, and **SQL Server**.  
-It manages gym members, trainers, employees, memberships, equipment, pending payments, blogs, and role-based administration. The system also includes an AI-powered fitness coach using **OpenRouter API**.
+### Gym Management System with Smart Fitness Coach
 
-**Key Features:**
+**Main Project**
 
-- Admin dashboard
-- User/member management
-- Trainer assignment
-- Membership tracking
-- Equipment management
-- Pending payment approval
-- Dedicated member profile
-- AI-powered fitness coach
+A web-based gym management system built with **ASP.NET Core MVC**, **.NET 9**, and **SQL Server**, featuring role-based administration and an AI-powered fitness coach using **OpenRouter API**.
 
-**Tech Stack:** C#, ASP.NET Core MVC, .NET 9, Entity Framework Core, SQL Server, Bootstrap, JavaScript, OpenRouter API
+**Features:** Admin dashboard, member management, trainer assignment, membership tracking, equipment management, pending payment approval, member profile, AI fitness coach.
+
+**Tech Stack:**  
+<code>C#</code>
+<code>ASP.NET Core MVC</code>
+<code>.NET 9</code>
+<code>EF Core</code>
+<code>SQL Server</code>
+<code>Bootstrap</code>
+<code>JavaScript</code>
+<code>OpenRouter API</code>
 
 **Repository:** [GYM.Mi.Web](https://github.com/Kaoser-6139/GYM.Mi.Web)
 
----
+  </td>
+  <td width="50%" valign="top">
 
-### 2. Inventory Management System
+### Inventory Management System
+
+**Course-Based Project**
 
 A course-based ASP.NET Core MVC inventory management project focused on managing products, customers, warehouses, and inventory operations.
 
-**Key Features:**
+**Features:** Product management, customer management, warehouse inventory operations, claim-based authorization, Docker-based development support.
 
-- Product management
-- Customer management
-- Warehouse inventory operations
-- Claim-based authorization
-- Docker-based development support
-
-**Tech Stack:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, Docker
+**Tech Stack:**  
+<code>C#</code>
+<code>ASP.NET Core MVC</code>
+<code>EF Core</code>
+<code>SQL Server</code>
+<code>Docker</code>
 
 **Repository:** [DevSkill.Inventory.Web](https://github.com/Kaoser-6139/DevSkill.Inventory.Web)
+
+  </td>
+  </tr>
+</table>
 
 <p align="right">
   <a href="#quick-navigation">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%91-555555?style=for-the-badge" />
   </a>
 </p>
+
+---
 
 ---
 
