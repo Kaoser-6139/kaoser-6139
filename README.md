@@ -134,6 +134,20 @@ Currently, I am improving my skills through real-world projects, clean architect
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">📘</td>
+    <td>
+      <h3>Familiar With</h3>
+      <p>
+        <code>AWS EC2</code>
+        <code>AWS S3</code>
+        <code>AWS IAM</code>
+        <code>Unit Testing</code>
+        <code>Manual Testing</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -148,71 +162,6 @@ Currently, I am improving my skills through real-world projects, clean architect
 
 ---
 
-### Backend & Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D6EFD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repository%20Pattern-198754?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unit%20of%20Work-20C997?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-FD7E14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS%20%2F%20MediatR-DC3545?style=for-the-badge" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stored%20Procedures-343A40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Views-6C757D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" />
-</p>
-
-### Security & Authentication
-
-<p>
-  <img src="https://img.shields.io/badge/Authentication-0D6EFD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authorization-198754?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RBAC-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claims%20Based%20Authorization-FD7E14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Policy%20Based%20Authorization-DC3545?style=for-the-badge" />
-</p>
-
-### Frontend Basics
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20Flow-343A40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### Familiar With
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-0DCAF0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Manual%20Testing-6C757D?style=for-the-badge" />
-</p>
-
-<p align="right">
-  <a href="#quick-navigation">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%91-555555?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
