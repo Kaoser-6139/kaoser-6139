@@ -1,0 +1,9 @@
+<svg width="500" height="135" viewBox="0 0 500 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="498" height="133" rx="14" fill="white" stroke="#F3B6AF" stroke-width="2"/>
+  <rect x="34" y="31" width="72" height="72" rx="14" fill="#FDECEC"/>
+  <rect x="52" y="51" width="36" height="28" rx="3" fill="none" stroke="#D14836" stroke-width="4"/>
+  <path d="M54 54L70 67L86 54" stroke="#D14836" stroke-width="4" fill="none"/>
+  <text x="138" y="58" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#111827">Email</text>
+  <text x="138" y="92" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#6B7280">kaoser6139@gmail.com</text>
+  <text x="448" y="72" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#D14836">↗</text>
+</svg>
