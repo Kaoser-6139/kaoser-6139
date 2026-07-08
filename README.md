@@ -48,53 +48,105 @@ Currently, I am improving my skills through real-world projects, clean architect
 </p>
 
 ---
+<a id="skills--technologies"></a>
+
 ## Skills & Technologies
 
-### Primary Skills
+<table>
+  <tr>
+    <td width="55" align="center">⭐</td>
+    <td>
+      <h3>Primary Skills</h3>
+      <p>
+        <code>C#</code>
+        <code>ASP.NET Core MVC</code>
+        <code>Entity Framework Core</code>
+        <code>SQL Server</code>
+      </p>
+    </td>
+  </tr>
 
-|  |  |
-|---|---|
-| ⭐ **Primary Skills** | ![C#](https://img.shields.io/badge/C%23-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![SQL Server](https://img.shields.io/badge/SQL%20Server-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
+  <tr>
+    <td align="center">🧱</td>
+    <td>
+      <h3>Backend & Architecture</h3>
+      <p>
+        <code>Clean Architecture</code>
+        <code>Repository Pattern</code>
+        <code>Unit of Work</code>
+        <code>SOLID</code>
+        <code>OOP</code>
+        <code>CQRS / MediatR</code>
+      </p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center">🗄️</td>
+    <td>
+      <h3>Database</h3>
+      <p>
+        <code>SQL Server</code>
+        <code>Stored Procedures</code>
+        <code>Views</code>
+        <code>LINQ</code>
+      </p>
+    </td>
+  </tr>
 
-|  |  |
-|---|---|
-| 🧱 **Backend & Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![SOLID](https://img.shields.io/badge/SOLID-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![OOP](https://img.shields.io/badge/OOP-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![CQRS / MediatR](https://img.shields.io/badge/CQRS%20%2F%20MediatR-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
+  <tr>
+    <td align="center">🔐</td>
+    <td>
+      <h3>Security & Authentication</h3>
+      <p>
+        <code>Authentication</code>
+        <code>Authorization</code>
+        <code>RBAC</code>
+        <code>Claims Based Authorization</code>
+        <code>Policy Based Authorization</code>
+      </p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center">🖥️</td>
+    <td>
+      <h3>Frontend Basics</h3>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>Bootstrap</code>
+        <code>JavaScript</code>
+      </p>
+    </td>
+  </tr>
 
-|  |  |
-|---|---|
-| 🗄️ **Database** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Views](https://img.shields.io/badge/Views-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![LINQ](https://img.shields.io/badge/LINQ-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
-
----
-
-|  |  |
-|---|---|
-| 🔐 **Security & Authentication** | ![Authentication](https://img.shields.io/badge/Authentication-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Authorization](https://img.shields.io/badge/Authorization-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![RBAC](https://img.shields.io/badge/RBAC-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Claims Based Authorization](https://img.shields.io/badge/Claims%20Based%20Authorization-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Policy Based Authorization](https://img.shields.io/badge/Policy%20Based%20Authorization-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
-
----
-
-|  |  |
-|---|---|
-| 🖥️ **Frontend Basics** | ![HTML](https://img.shields.io/badge/HTML-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![CSS](https://img.shields.io/badge/CSS-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Bootstrap](https://img.shields.io/badge/Bootstrap-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![JavaScript](https://img.shields.io/badge/JavaScript-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
-
----
-
-|  |  |
-|---|---|
-| 🛠️ **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![GitHub](https://img.shields.io/badge/GitHub-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Git Flow](https://img.shields.io/badge/Git%20Flow-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Docker](https://img.shields.io/badge/Docker-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) ![VS Code](https://img.shields.io/badge/VS%20Code-F8FAFC?style=flat-square&labelColor=F8FAFC&color=CBD5E1) |
-
----
+  <tr>
+    <td align="center">🛠️</td>
+    <td>
+      <h3>Tools & DevOps</h3>
+      <p>
+        <code>Git</code>
+        <code>GitHub</code>
+        <code>Docker</code>
+        <code>Visual Studio</code>
+        <code>VS Code</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>Always learning. Always building.</em>
 </p>
 
 <p align="right">
-  <a href="#quick-navigation">Back to Top ↑</a>
+  <a href="#quick-navigation">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%91-555555?style=for-the-badge" />
+  </a>
 </p>
+
+---
 
 ### Backend & Architecture
 
