@@ -189,11 +189,21 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaoser-6139&show_icons=true&theme=default" alt="GitHub Stats" />
+  <em>A quick snapshot of my GitHub activity and language usage.</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoser-6139&layout=donut" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kaoser-6139&show_icons=true&theme=default&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoser-6139&layout=donut&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="right">
