@@ -138,63 +138,64 @@ Currently, I am improving my skills through real-world projects, clean architect
 
 ---
 
-## Featured Projects
+## 🔗 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 1. Gym Management System with Smart Fitness Coach
+![Main Project](https://img.shields.io/badge/Main%20Project-blue?style=flat-square)
 
-### Gym Management System with Smart Fitness Coach
+A web-based gym management system built with **ASP.NET Core MVC**, **.NET 9**, and **SQL Server**.
+It manages gym members, trainers, employees, memberships, equipment, pending payments, blogs, and role-based administration. The system also includes an AI-powered fitness coach using **OpenRouter API**.
 
-**Main Project**
+⭐ **Features:**
+- Admin dashboard
+- User/member management
+- Trainer assignment
+- Membership tracking
+- Equipment management
+- Pending payment approval
+- Dedicated member profile
+- AI-powered fitness coach
 
-A web-based gym management system built with **ASP.NET Core MVC**, **.NET 9**, and **SQL Server**, featuring role-based administration and an AI-powered fitness coach using **OpenRouter API**.
+</> **Tech Stack:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square)
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-black?style=flat-square)
 
-**Features:** Admin dashboard, member management, trainer assignment, membership tracking, equipment management, pending payment approval, member profile, AI fitness coach.
+📖 **Repository:** [GYM.Mi.Web](https://github.com/Kaoser-6139/GYM.Mi.Web)
 
-**Tech Stack:**  
-<code>C#</code>
-<code>ASP.NET Core MVC</code>
-<code>.NET 9</code>
-<code>EF Core</code>
-<code>SQL Server</code>
-<code>Bootstrap</code>
-<code>JavaScript</code>
-<code>OpenRouter API</code>
+---
 
-**Repository:** [GYM.Mi.Web](https://github.com/Kaoser-6139/GYM.Mi.Web)
+### 2. Inventory Management System
+![Course-Based Project](https://img.shields.io/badge/Course--Based%20Project-green?style=flat-square)
 
-  </td>
-  <td width="50%" valign="top">
+An ASP.NET Core MVC inventory management project focused on managing products, customers, warehouses, and inventory operations.
 
-### Inventory Management System
+⭐ **Features:**
+- Product management
+- Customer management
+- Warehouse inventory operations
+- Claim-based authorization
+- Docker-based development support
 
-**Course-Based Project**
+</> **Tech Stack:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-A course-based ASP.NET Core MVC inventory management project focused on managing products, customers, warehouses, and inventory operations.
-
-**Features:** Product management, customer management, warehouse inventory operations, claim-based authorization, Docker-based development support.
-
-**Tech Stack:**  
-<code>C#</code>
-<code>ASP.NET Core MVC</code>
-<code>EF Core</code>
-<code>SQL Server</code>
-<code>Docker</code>
-
-**Repository:** [DevSkill.Inventory.Web](https://github.com/Kaoser-6139/DevSkill.Inventory.Web)
-
-  </td>
-  </tr>
-</table>
+📖 **Repository:** [DevSkill.Inventory.Web](https://github.com/Kaoser-6139/DevSkill.Inventory.Web)
 
 <p align="right">
   <a href="#quick-navigation">
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%91-555555?style=for-the-badge" />
   </a>
 </p>
-
----
 
 ---
 
