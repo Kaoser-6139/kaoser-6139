@@ -214,19 +214,17 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
   Let's connect! Feel free to reach out through any of the platforms below.
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoser-mim/">
-    <img src="./assets/linkedin-card.svg" width="31%" alt="LinkedIn - Kaoser Mim" />
+    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/linkedin-card.svg" width="31%" alt="LinkedIn - Kaoser Mim" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kaoser6139@gmail.com">
-    <img src="./assets/email-card.svg" width="31%" alt="Email - kaoser6139@gmail.com" />
+    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/email-card.svg" width="31%" alt="Email - kaoser6139@gmail.com" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Kaoser-6139">
-    <img src="./assets/github-card.svg" width="31%" alt="GitHub - Kaoser-6139" />
+    <img src="https://raw.githubusercontent.com/Kaoser-6139/kaoser-6139/main/assets/github-card.svg" width="31%" alt="GitHub - Kaoser-6139" />
   </a>
 </p>
 
@@ -238,4 +236,3 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
     <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%86%91-555555?style=for-the-badge" />
   </a>
 </p>
----
