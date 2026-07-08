@@ -220,23 +220,21 @@ A course-based ASP.NET Core MVC inventory management project focused on managing
       <a href="https://www.linkedin.com/in/kaoser-mim/">
         <img src="https://img.shields.io/badge/LinkedIn-Kaoser%20Mim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
-      <br>
+      <br />
       <sub>Professional profile</sub>
     </td>
-
     <td align="center" width="300">
       <a href="mailto:kaoser6139@gmail.com">
         <img src="https://img.shields.io/badge/Email-kaoser6139%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
-      <br>
+      <br />
       <sub>Contact by email</sub>
     </td>
-
     <td align="center" width="280">
       <a href="https://github.com/Kaoser-6139">
         <img src="https://img.shields.io/badge/GitHub-Kaoser--6139-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
-      <br>
+      <br />
       <sub>Projects and code</sub>
     </td>
   </tr>
